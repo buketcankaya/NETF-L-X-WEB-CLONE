@@ -17,5 +17,6 @@
 
 ### `Screen`
 
-![](screen.gif)
+![](./src/assets/screen.gif)
 
+# netfilix-web-clone
